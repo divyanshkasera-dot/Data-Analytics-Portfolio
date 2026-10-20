@@ -5,7 +5,7 @@ An interactive Power BI dashboard analysing NYC yellow taxi trip revenue, trip p
 
 ## Dashboard Preview
 
-![NYC Yellow Taxi Analytics Dashboard](./nyc-yellow-taxi-dashboard.png)
+![NYC Yellow Taxi Analytics Dashboard](./Screenshot%202026-10-20%20111003.png)
 
 ## Key Performance Indicators
 
