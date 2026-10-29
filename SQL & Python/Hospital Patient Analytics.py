@@ -3,7 +3,7 @@
 from mysql.connector import connect 
 with (connect(host="localhost",
               user="root",
-              password="696969",
+              password="*****",
               database="project11")
      as conn ):
     print("Connection Created Successfully")
